@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+React Controlled Inputs — Complete Reference Project
 
-## Getting Started
+A full React project demonstrating every HTML input as a controlled component.
+This project acts as a learning guide and a reusable reference for building real-world forms using React.
 
-First, run the development server:
+🔗 Live Demo: https://react-controlled-input.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+All HTML input types implemented
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Fully controlled React components
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Real-time validation examples
 
-## Learn More
+Input formatting (uppercase, trimming, masking)
 
-To learn more about Next.js, take a look at the following resources:
+File upload handling
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Color picker, range slider, date/time controls
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Multiple checkbox & radio examples
 
-## Deploy on Vercel
+Reset + submit handling
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Clean & simple UI
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Perfect for learning and portfolio use
+
+🧩 Inputs Included
+Text-Based Inputs
+
+text
+
+email
+
+password
+
+url
+
+tel
+
+search
+
+textarea
+
+Selection Inputs
+
+select
+
+multi-select
+
+checkbox
+
+radio
+
+Number & Slider
+
+number
+
+range
+
+Date & Time
+
+date
+
+time
+
+datetime-local
+
+week
+
+month
+
+Special Inputs
+
+color
+
+file
+
+hidden
