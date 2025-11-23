@@ -1,12 +1,13 @@
-"use client"
-import SingleHandlerForEveryInput from "@/components/SingleHandlerForEveryInput";
+import AllInputsWithState from "@/components/AllInputsWithState";
+
+
 
 
 
 export default function Home() {
   return (
     <div>
-     <SingleHandlerForEveryInput/>
+    <AllInputsWithState/>
     </div>
   );
 }
