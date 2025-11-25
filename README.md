@@ -78,3 +78,4 @@ color
 
 file
 
+hidden
